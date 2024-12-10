@@ -1,7 +1,5 @@
 # Hey there, I'm Fernando Rimoli 👋
 
-![Profile Banner](https://yourimageurl.com/banner.png)
-
 ## About Me
 
 - 🏢 Student of Applied Computer Science and Artificial Intelligence.
@@ -20,8 +18,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=femito1&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=femito1&theme=radical" alt="GitHub streak"/>
 </p>
 
 

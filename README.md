@@ -3,8 +3,13 @@
 ## About Me
 
 - 🏢 Student of Applied Computer Science and Artificial Intelligence.
+
 - 🔭 Building [ChopstickGame](https://github.com/femito1/chopsticks) – an online version of a popular in-person game.
-- 🌱 Currently sharpening my **Machine Learning** and **AI** skills.
+
+- 🔭 Building [WasApp](https://github.com/femito1/WASA) – a web application messaging app that eerily resembles WhatsApp
+
+- 🌱 Currently sharpening my **Machine Learning** and **AI** skills through Nvidia's Deep Learning course
+
 - 📫 Reach me at: [fernandorimoli1001@gmail.com](mailto:fernandorimoli1001@gmail.com)
 
 ## Tech Stack & Tools

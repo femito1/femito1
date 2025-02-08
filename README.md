@@ -18,6 +18,9 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=femito1&show_icons=true&theme=radical" alt="GitHub stats"/>
+<p/>
 
 
 ## Connect With Me

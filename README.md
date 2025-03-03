@@ -6,7 +6,7 @@
 
 - 🔭 Building [ChopstickGame](https://github.com/femito1/chopsticks) – an online version of a popular in-person game.
 
-- 🔭 Building [WasApp](https://github.com/femito1/WASA) – a web application messaging app that eerily resembles WhatsApp
+- 🔭 Building [WasApp](https://github.com/femito1/ShowndownAgent) – a pokemon showdown AI that mimmicks AlphaGo's model
 
 - 🌱 Currently sharpening my **Machine Learning** and **AI** skills through Nvidia's Deep Learning course
 

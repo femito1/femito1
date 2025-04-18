@@ -8,7 +8,7 @@
 
 - 🔭 Building [ShowdownAgent](https://github.com/femito1/ShowdownAgent) – a pokemon showdown AI that mimmicks AlphaGo's model
 
-- 🌱 Currently sharpening my **Machine Learning** and **AI** skills in intern position at PC Cube
+- 🌱 Currently sharpening my **Machine Learning** and **AI** skills in an intern position at PC Cube
 
 - 📫 Reach me at: [fernandorimoli1001@gmail.com](mailto:fernandorimoli1001@gmail.com)
 

@@ -26,7 +26,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=femito1&&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=femito1&&show_icons=true&theme=radical" alt="GitHub stats"/>
 <p/>
 
 ## Connect With Me

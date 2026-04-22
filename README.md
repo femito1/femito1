@@ -2,13 +2,9 @@
 
 ## About Me
 
-- 🏢 Student of Applied Computer Science and Artificial Intelligence.
+- 🏢 Graduted in Applied Computer Science and Artificial Intelligence.
 
-- 🔭 Building [ChopstickGame](https://github.com/femito1/chopsticks) – an online version of a popular in-person game.
-
-- 🔭 Building [ShowdownAgent](https://github.com/femito1/ShowdownAgent) – a pokemon showdown AI that mimmicks AlphaGo's model
-
-- 🌱 Currently sharpening my **Machine Learning** and **AI** skills in an intern position at PC Cube
+- 🌱 Currently sharpening my **Machine Learning** and **AI** skills as a Junior AI Engineer consultant at VF Corporation
 
 - 📫 Reach me at: [fernandorimoli1001@gmail.com](mailto:fernandorimoli1001@gmail.com)
 

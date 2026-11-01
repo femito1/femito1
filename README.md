@@ -2,9 +2,9 @@
 
 ## About Me
 
-- 🏢 Graduted in Applied Computer Science and Artificial Intelligence.
+- 🏢 Graduted in Applied Computer Science and Artificial Intelligence
 
-- 🌱 Currently sharpening my **Machine Learning** and **AI** skills as a Junior AI Engineer consultant at VF Corporation
+- 🌱 Currently sharpening my **Machine Learning** and **AI** skills as a Master's student at Imperial College
 
 - 📫 Reach me at: [fernandorimoli1001@gmail.com](mailto:fernandorimoli1001@gmail.com)
 
